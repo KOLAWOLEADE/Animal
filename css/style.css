@@ -9,5 +9,27 @@ h2{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    
+    color: moccasin;
+
 }
+
+.Adopt{
+    color: darkred;
+}
+
+h4{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h3{
+    text-align: center;
+
+}
+
+h5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
