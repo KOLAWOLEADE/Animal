@@ -1,3 +1,13 @@
 nav{
     float: right;
 }
+
+body{
+    background-color: skyblue;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
